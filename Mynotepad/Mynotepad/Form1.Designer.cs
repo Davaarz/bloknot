@@ -36,7 +36,7 @@ namespace Mynotepad
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(40, 75);
+            this.button1.Location = new System.Drawing.Point(37, 44);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(163, 53);
             this.button1.TabIndex = 0;
@@ -47,7 +47,7 @@ namespace Mynotepad
             // checkBox1
             // 
             this.checkBox1.AutoSize = true;
-            this.checkBox1.Location = new System.Drawing.Point(69, 184);
+            this.checkBox1.Location = new System.Drawing.Point(37, 120);
             this.checkBox1.Name = "checkBox1";
             this.checkBox1.Size = new System.Drawing.Size(80, 17);
             this.checkBox1.TabIndex = 1;
@@ -57,7 +57,7 @@ namespace Mynotepad
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(83, 255);
+            this.label1.Location = new System.Drawing.Point(34, 169);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(35, 13);
             this.label1.TabIndex = 2;
@@ -67,8 +67,8 @@ namespace Mynotepad
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
-            this.ClientSize = new System.Drawing.Size(528, 450);
+            this.BackColor = System.Drawing.Color.DodgerBlue;
+            this.ClientSize = new System.Drawing.Size(686, 298);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.checkBox1);
             this.Controls.Add(this.button1);
